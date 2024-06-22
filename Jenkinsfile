@@ -19,7 +19,7 @@ pipeline
         {
             steps 
             {
-                echo 'Test Application'
+                echo 'Test Application-2'
             }
         }
 
