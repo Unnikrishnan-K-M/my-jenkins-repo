@@ -45,7 +45,7 @@ pipeline
          always
          {
 
-            // send success or failure email
+            // send success or failure email email
             emailext body: 
                                 '''Hi Team,
                                 Please find the Jenkins pipeline Status here.
